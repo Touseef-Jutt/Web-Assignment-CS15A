@@ -1,4 +1,37 @@
 
+M.Touseef Amjad
+15091519-047
+
+------------------------------------------HTML--3--TAGS-------------------------------------
+
+1.	H1-H6 Headings:
+
+Syntax:
+<h1>text content </h1>
+<h2>text content </h2> 
+<h3>text content </h3> 
+<h4>text content </h4>
+<h5>text content </h5>
+<h6>text content </h6>
+Attribute:
+Style attribute gives text the specified format/style written within heading tag.
+
+ 
+2.	BDO: 
+ 
+Syntax:
+<bdo>text content</bdo>
+Attribute:
+Dir attribute specifies the text direction of the text inside a bdo element.
+
+ 
+3.	Acronym:
+ 
+Syntax:
+<acronym>text content</acronym>
+Attributes:
+Title attribute specifies the full form of the text inside the acronym element.
+
 
 Ali Ahmed 15091519-077
 HTML  5 tags
